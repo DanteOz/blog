@@ -1,1 +1,1 @@
-Sitemap: https://danteoz.github.io/blog/sitemap.xml
+Sitemap: https://danteoz.com/sitemap.xml
